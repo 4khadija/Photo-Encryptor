@@ -1,4 +1,4 @@
-# Ransomware-Photo-Encryptor-Demo
+# Photo-Encryptor-Demo
 Ransomware is a type of malware from cryptovirology that threatens to
 publish the victim's personal data or permanently block access to it
 unless a ransom is paid off.
